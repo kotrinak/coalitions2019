@@ -1,2 +1,2 @@
 # coalitions2019
-coalitions paper materials
+Kajokaite et al. 2019  materials
